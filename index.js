@@ -288,7 +288,7 @@ function addRole() {
             // console.log(employeeDepartment);
             prompt([
                 {
-                    name: "role",
+                    name: "title",
                     message: "What is the employee's role?"
                 },
                 {

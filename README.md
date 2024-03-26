@@ -45,6 +45,6 @@ GitHub: [ajcasablanca](https://github.com/ajcasablanca)
 
 ## Live LInks
 
-1. [GitHub]()
+1. [GitHub](https://ajcasablanca.github.io/Module12-Employee-Tracker/)
 
-2. [Demo]()
+2. [Demo](https://drive.google.com/file/d/1AEmF4VYgfNcyuwOe0Mv_P3j1EARXtEfx/view?usp=sharing)
